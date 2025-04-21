@@ -56,7 +56,7 @@ Fork & Flavor is a full-stack recipe-sharing community that connects cooking ent
 1. **Clone the repository**:
 
    ```sh
-   https://github.com/kazirauf/Fork-Flavor-Server-Side
+   https://github.com/kazirahat89/Fork-Flavor-SSide.git
    ```
 
 2. **Install dependencies**:
